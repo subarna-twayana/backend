@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "online clothes shoping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subarna-twayana/backend.git"
+  },
+  "author": "Subarna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subarna-twayana/backend/issues"
+  },
+  "homepage": "https://github.com/subarna-twayana/backend#readme",
+  "dependencies": {
+    "expres": "0.0.5"
+  }
+}
